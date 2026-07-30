@@ -1,3 +1,3 @@
 def main()
- print("main functiom")
+ print("main functiom"):
   main()
